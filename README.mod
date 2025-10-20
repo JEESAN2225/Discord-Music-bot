@@ -34,3 +34,46 @@ A **feature-rich Discord music bot** with **slash commands**, Spotify integratio
 
 ## 🗂 Project Structure
 
+```text
+cogs/
+├─ admin_panel.py
+├─ advanced_commands.py
+├─ advanced_music.py
+├─ audio_effects.py
+├─ dj_moderation.py
+├─ enhanced_commands.py
+├─ help_system.py
+├─ music.py
+├─ music_dashboard.py
+├─ radio_streaming.py
+├─ utility_info.py
+└─ voice_and_playlist.py
+
+integrations/
+├─ lyrics.py
+└─ spotify.py
+
+logs/
+├─ discord.log
+├─ musicbot.log
+└─ wavelink.log
+
+utils/
+├─ advanced_queue.py
+├─ animated_embeds.py
+├─ emoji.py
+├─ enhanced_embeds.py
+├─ lavalink_helper.py
+├─ logging_system.py
+└─ music_player.py
+
+config/
+└─ config.py
+
+database/
+└─ models.py
+
+lyrics_cli.py
+main.py
+musicbot.db
+requirements.txt

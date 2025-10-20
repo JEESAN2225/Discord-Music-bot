@@ -1,6 +1,6 @@
 # 🎵 **Advanced Discord Music Bot**  
 
-![Discord](https://img.shields.io/discord/1359483926539800827?label=Discord&color=7289DA&logo=discord&logoColor=white)   ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)   ![GitHub Stars](https://img.shields.io/github/stars/jeesan2225/discord-music-bot?style=social)   ![License](https://img.shields.io/badge/License-MIT-green) |
+![Discord](https://img.shields.io/discord/1359483926539800827?label=Discord&color=7289DA&logo=discord&logoColor=white)   ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)   ![GitHub Stars](https://img.shields.io/github/stars/jeesan2225/discord-music-bot?style=social)   ![License](https://img.shields.io/badge/License-MIT-green)
 
 
 
@@ -76,6 +76,7 @@ lyrics_cli.py
 main.py
 musicbot.db
 requirements.txt
+
 
 
 

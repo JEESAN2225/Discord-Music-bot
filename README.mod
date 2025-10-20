@@ -77,4 +77,3 @@ lyrics_cli.py
 main.py
 musicbot.db
 requirements.txt
-
